@@ -1,6 +1,9 @@
 #pragma once
 
 #include <vector>
+#include <string>
+
+std::string RLE(const std::string& s);
 
 struct ListNode 
 {
