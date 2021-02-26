@@ -3,6 +3,7 @@
 #include <vector>
 #include <string>
 
+int RomanToInteger(const std::string& s);
 std::string RLE(const std::string& s);
 
 struct ListNode 
